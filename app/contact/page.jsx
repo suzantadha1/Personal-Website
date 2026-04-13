@@ -17,13 +17,13 @@ export default function Contact() {
           <div className="contact-item">
             <span className="contact-label">LinkedIn</span>
             <a href="https://www.linkedin.com/in/suzan-tadha-514974344/" target="_blank" rel="noreferrer" className="contact-value">
-              https://www.linkedin.com/in/suzan-tadha-514974344/
+              Suzan Tadha
             </a>
           </div>
           <div className="contact-item">
             <span className="contact-label">GitHub</span>
-            <a href="https://github.com/suzantadha1" target="_blank" rel="noreferrer" className="contact-value">
-              https://github.com/suzantadha1
+            <a href="https://github.com/suzantadha1" target="_blank" rel="noreferrer" className="contact-value" style={{ color: "white" }}>
+              suzantadha1
             </a>
           </div>
         </div>
